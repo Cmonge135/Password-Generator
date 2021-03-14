@@ -36,3 +36,5 @@ The following image shows the web application's appearance and functionality:
 ## Links
 
 Github Repository: https://github.com/Cmonge135/password-generator
+Deployed App: https://cmonge135.github.io/password-generator/
+[link](https://cmonge135.github.io/password-generator/)
